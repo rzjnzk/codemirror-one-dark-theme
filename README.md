@@ -1,8 +1,9 @@
-# codemirror-one-dark-theme
+# `codemirror-one-dark-theme`
 
-atom's one-dark theme for codemirror.
+Atom Editor's `One Dark` theme for [CodeMirror](https://codemirror.net/).
 
-![Image of the theme](https://raw.githubusercontent.com/Aerobird98/page/gh-pages/lib/img/codemirror-one-dark.PNG)
+  [![NPM Version][npm-image]][npm-url]
+  [![NPM Downloads][downloads-image]][downloads-url]
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## LICENSE
-[MIT](https://raw.githubusercontent.com/Aerobird98/codemirror-one-dark-theme/master/LICENSE)
+![Screenshot](./docs/screenshot.png)
